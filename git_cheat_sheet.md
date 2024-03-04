@@ -6,9 +6,6 @@ clones an existing repository, that you created in GitHub or similar, into your 
 ## git add 
 adds file(s) into the staging area. Any changes that are done to these files now do not affect the files in the staging area
 
-## git status
-checks how many and which files are in your staging area and which files are just in your local folder 
-
 ## git restore
 discards changes of your file which were not added to the staging area already
 ###	--staged: removes files from your staging area - does not override the current version!
