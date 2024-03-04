@@ -20,3 +20,5 @@ push everything from your reposotory into the remote repository (can now be seen
 ## git mv
 Rename your file - if you push, the old file will automatically be renamed as well - no new file will be added
 
+## git status
+checks how many and which files are in your staging area and which files are just in your local folder
